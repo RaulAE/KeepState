@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeepState</string>
+    <string name="txtButton">Change Text</string>
+    <string name="txt1">Howdy There World!</string>
+    <string name="txt2">Hola Mundo!</string>
+    <string name="txt3">The Moon Says Hello!</string>
+</resources>
